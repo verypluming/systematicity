@@ -1,0 +1,70 @@
+fof(a1,axiom, (![X]: (dog(X) => animal(X)))).
+fof(a2,axiom, (![X]: (dog(X) => creature(X)))).
+fof(a3,axiom, (![X]: (dog(X) => mammal(X)))).
+fof(a4,axiom, (![X]: (dog(X) => beast(X)))).
+
+fof(b1,axiom, (![X]: (rabbit(X) => animal(X)))).
+fof(b2,axiom, (![X]: (rabbit(X) => creature(X)))).
+fof(b3,axiom, (![X]: (rabbit(X) => mammal(X)))).
+fof(b4,axiom, (![X]: (rabbit(X) => beast(X)))).
+
+fof(c1,axiom, (![X]: (lion(X) => animal(X)))).
+fof(c2,axiom, (![X]: (lion(X) => creature(X)))).
+fof(c2,axiom, (![X]: (lion(X) => mammal(X)))).
+fof(c4,axiom, (![X]: (lion(X) => beast(X)))).
+
+fof(d1,axiom, (![X]: (cat(X) => animal(X)))).
+fof(d2,axiom, (![X]: (cat(X) => creature(X)))).
+fof(d3,axiom, (![X]: (cat(X) => mammal(X)))).
+fof(d4,axiom, (![X]: (cat(X) => beast(X)))).
+
+fof(e1,axiom, (![X]: (beat(X) => animal(X)))).
+fof(e2,axiom, (![X]: (beat(X) => creature(X)))).
+fof(e3,axiom, (![X]: (beat(X) => mammal(X)))).
+fof(e4,axiom, (![X]: (beat(X) => beast(X)))).
+
+fof(f1,axiom, (![X]: (bear(X) => animal(X)))).
+fof(f2,axiom, (![X]: (bear(X) => creature(X)))).
+fof(f3,axiom, (![X]: (bear(X) => mammal(X)))).
+fof(f4,axiom, (![X]: (bear(X) => beast(X)))).
+
+fof(g1,axiom, (![X]: (tiger(X) => animal(X)))).
+fof(g2,axiom, (![X]: (tiger(X) => creature(X)))).
+fof(g3,axiom, (![X]: (tiger(X) => mammal(X)))).
+fof(g4,axiom, (![X]: (tiger(X) => beast(X)))).
+
+fof(h1,axiom, (![X]: (elephant(X) => animal(X)))).
+fof(h2,axiom, (![X]: (elephant(X) => creature(X)))).
+fof(h3,axiom, (![X]: (elephant(X) => mammal(X)))).
+fof(h4,axiom, (![X]: (elephant(X) => beast(X)))).
+
+fof(i1,axiom, (![X]: (fox(X) => animal(X)))).
+fof(i2,axiom, (![X]: (fox(X) => creature(X)))).
+fof(i3,axiom, (![X]: (fox(X) => mammal(X)))).
+fof(i4,axiom, (![X]: (fox(X) => beast(X)))).
+
+fof(j1,axiom, (![X]: (monkey(X) => animal(X)))).
+fof(j2,axiom, (![X]: (monkey(X) => creature(X)))).
+fof(j3,axiom, (![X]: (monkey(X) => mammal(X)))).
+fof(j4,axiom, (![X]: (monkey(X) => beast(X)))).
+
+fof(k1,axiom, (![X]: (wolf(X) => animal(X)))).
+fof(k2,axiom, (![X]: (wolf(X) => creature(X)))).
+fof(k3,axiom, (![X]: (wolf(X) => mammal(X)))).
+fof(k4,axiom, (![X]: (wolf(X) => beast(X)))).
+
+fof(l1,axiom, (![X]: (bird(X) => animal(X)))).
+fof(l2,axiom, (![X]: (bird(X) => creature(X)))).
+fof(l3,axiom, (![X]: (bird(X) => mammal(X)))).
+fof(l4,axiom, (![X]: (bird(X) => beast(X)))).
+
+fof(m1,axiom, (![X]: (horse(X) => animal(X)))).
+fof(m2,axiom, (![X]: (horse(X) => creature(X)))).
+fof(m3,axiom, (![X]: (horse(X) => mammal(X)))).
+fof(m4,axiom, (![X]: (horse(X) => beast(X)))).
+
+fof(n1,axiom, (![X]: (giraffe(X) => animal(X)))).
+fof(n2,axiom, (![X]: (giraffe(X) => creature(X)))).
+fof(n3,axiom, (![X]: (giraffe(X) => mammal(X)))).
+fof(n4,axiom, (![X]: (giraffe(X) => beast(X)))).
+

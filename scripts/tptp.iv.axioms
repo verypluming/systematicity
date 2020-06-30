@@ -1,0 +1,69 @@
+fof(va1,axiom, (![X]: (ran(X) => moved(X)))).
+fof(va2,axiom, (![X]: (ran(X) => worked(X)))).
+fof(va3,axiom, (![X]: (ran(X) => existed(X)))).
+fof(va4,axiom, (![X]: (ran(X) => changed(X)))).
+
+fof(vb1,axiom, (![X]: (walked(X) => moved(X)))).
+fof(vb2,axiom, (![X]: (walked(X) => worked(X)))).
+fof(vb3,axiom, (![X]: (walked(X) => existed(X)))).
+fof(vb4,axiom, (![X]: (walked(X) => changed(X)))).
+
+fof(vc1,axiom, (![X]: (came(X) => moved(X)))).
+fof(vc2,axiom, (![X]: (came(X) => worked(X)))).
+fof(vc3,axiom, (![X]: (came(X) => existed(X)))).
+fof(vc4,axiom, (![X]: (came(X) => changed(X)))).
+
+fof(vd1,axiom, (![X]: (waltzed(X) => moved(X)))).
+fof(vd2,axiom, (![X]: (waltzed(X) => worked(X)))).
+fof(vd3,axiom, (![X]: (waltzed(X) => existed(X)))).
+fof(vd4,axiom, (![X]: (waltzed(X) => changed(X)))).
+
+fof(ve1,axiom, (![X]: (swam(X) => moved(X)))).
+fof(ve2,axiom, (![X]: (swam(X) => worked(X)))).
+fof(ve3,axiom, (![X]: (swam(X) => existed(X)))).
+fof(ve4,axiom, (![X]: (swam(X) => changed(X)))).
+
+fof(vf1,axiom, (![X]: (rushed(X) => moved(X)))).
+fof(vf2,axiom, (![X]: (rushed(X) => worked(X)))).
+fof(vf3,axiom, (![X]: (rushed(X) => existed(X)))).
+fof(vf4,axiom, (![X]: (rushed(X) => changed(X)))).
+
+fof(vg1,axiom, (![X]: (danced(X) => moved(X)))).
+fof(vg2,axiom, (![X]: (danced(X) => worked(X)))).
+fof(vg3,axiom, (![X]: (danced(X) => existed(X)))).
+fof(vg4,axiom, (![X]: (danced(X) => changed(X)))).
+
+fof(vh1,axiom, (![X]: (dawdled(X) => moved(X)))).
+fof(vh2,axiom, (![X]: (dawdled(X) => worked(X)))).
+fof(vh3,axiom, (![X]: (dawdled(X) => existed(X)))).
+fof(vh4,axiom, (![X]: (dawdled(X) => changed(X)))).
+
+fof(vi1,axiom, (![X]: (escaped(X) => moved(X)))).
+fof(vi2,axiom, (![X]: (escaped(X) => worked(X)))).
+fof(vi3,axiom, (![X]: (escaped(X) => existed(X)))).
+fof(vi4,axiom, (![X]: (escaped(X) => changed(X)))).
+
+fof(vj1,axiom, (![X]: (left(X) => moved(X)))).
+fof(vj2,axiom, (![X]: (left(X) => worked(X)))).
+fof(vj3,axiom, (![X]: (left(X) => existed(X)))).
+fof(vj4,axiom, (![X]: (left(X) => changed(X)))).
+
+fof(vk1,axiom, (![X]: (cried(X) => moved(X)))).
+fof(vk2,axiom, (![X]: (cried(X) => worked(X)))).
+fof(vk3,axiom, (![X]: (cried(X) => existed(X)))).
+fof(vk4,axiom, (![X]: (cried(X) => changed(X)))).
+
+fof(vl1,axiom, (![X]: (slept(X) => moved(X)))).
+fof(vl2,axiom, (![X]: (slept(X) => worked(X)))).
+fof(vl3,axiom, (![X]: (slept(X) => existed(X)))).
+fof(vl4,axiom, (![X]: (slept(X) => changed(X)))).
+
+fof(vm1,axiom, (![X]: (flied(X) => moved(X)))).
+fof(vm2,axiom, (![X]: (flied(X) => worked(X)))).
+fof(vm3,axiom, (![X]: (flied(X) => existed(X)))).
+fof(vm4,axiom, (![X]: (flied(X) => changed(X)))).
+
+fof(vn1,axiom, (![X]: (talked(X) => moved(X)))).
+fof(vn2,axiom, (![X]: (talked(X) => worked(X)))).
+fof(vn3,axiom, (![X]: (talked(X) => existed(X)))).
+fof(vn4,axiom, (![X]: (talked(X) => changed(X)))).
