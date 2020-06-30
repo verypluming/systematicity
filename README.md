@@ -64,7 +64,7 @@ $ for f in results_simple/depth1*.txt; do ./prove.sh $f 1; done
 $ for f in results_simple/depth2*.txt; do ./prove.sh $f 2; done
 $ for f in results_simple/depth3*.txt; do ./prove.sh $f 3; done
 $ for f in results_simple/depth4*.txt; do ./prove.sh $f 4; done
-
+```
 
 ## Citation
 If you use this code in any published research, please cite the following:
