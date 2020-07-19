@@ -8,9 +8,14 @@
 - `apply_tsurgeon.sh` -- tsurgeon scripts for lexical replacement/phrasal addition: target item is marked as a schematic entry "TARGET"
 - `develop.py` -- python script to develop TARGET in tsurgeon outputs.
 
+## Install tools
+```
+$ sudo apt-get -y install swi-prolog
+$ ./install_tools.sh
+```
+
 ## Generate monotonicity inference datasets
 ```
-$ ./install_tools.sh
 $ cd scripts
 $ ./create_data.sh simple
 ```
