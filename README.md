@@ -89,4 +89,4 @@ If you use this code in any published research, please cite the following:
 For questions and usage issues, please contact hitomi.yanaka@riken.jp .
 
 ## License
-Apache License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
