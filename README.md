@@ -43,7 +43,7 @@ Outputs are stored in `sample/base_complex` directory.
 $ ./apply_tsurgeon.sh
 ```
 
-3. Outputs with entailment lables are to be stored in `cache` directory.
+3. Outputs with entailment labels are to be stored in `cache` directory.
 
 These outputs have schematic variable TARGET, which is to be developed by:
 
